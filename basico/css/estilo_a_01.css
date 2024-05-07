@@ -1,0 +1,18 @@
+.tbn_a_01_encabesado {
+    padding: 18px;
+    background-color: orange;
+    cursor: pointer;
+    outline: none;
+    border: none;
+    border-radius: 10px 10px 10px 10px;
+  }
+  #id_contenido_a_01{
+    padding: 14px;
+    border-radius: 10px 10px 10px 10px;
+    position: relative;  
+    background-color: hsl(204, 81%, 62%); 
+    margin: 0% 0% 10% 0%;  
+    /*width: 99%;*/
+    /*height: 60px;*/
+    border: 5px solid hsl(204, 81%, 62%); ;
+  }

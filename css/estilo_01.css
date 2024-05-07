@@ -1,0 +1,77 @@
+#id_cabecera{
+    position: absolute;  
+    margin: 0% 0% 10% 0%;  
+    width: 99%;
+    height: 60px;
+    border: 1px solid #035180;
+  }
+  #id_menu {
+    position: absolute; 
+    margin: 65px 0% 0% 0%;  
+    width: 15%;
+    height: 80%;
+    border: 1px solid #035180;
+  }
+  #id_caja_principal {
+    position: absolute; 
+    /*background-color: powderblue;*/
+    margin: 65px 0% 0% 16%;  
+    width: 83%;
+    height: 80%;
+    border: 1px solid #035180;
+  
+  }
+  #id_parrafo_titulo{
+      font-size: 150%;
+      font-weight: bold;
+      text-align: center;
+      color: hsl(201, 100%, 94%);
+      /*font-family: helvetica;*/
+      font-family: 'Times New Roman', Times, serif
+  }
+
+  #id_parrafo_titulo_01{
+    font-size: 100%;
+    /*font-weight: bold;*/
+    text-align: center;
+    color: hsl(201, 100%, 94%);
+    /*font-family: helvetica;*/
+    font-family: Arial, Helvetica, sans-serif
+}
+
+/*=====================================*/
+.btn_azul_01 {
+    background:linear-gradient(#566d7a 0,5%, rgb(239, 245, 209));
+    /*background:rgb(245, 247, 235);*/
+    text-align: center;
+    padding: 10px 5px;
+    width: 100%;
+    /*height: 20px;
+    margin: 20px;*/
+    border-style: none;
+    /*border-color: black;*/
+    cursor: pointer;
+
+
+}
+.btn_azul_02 {
+    background-color: hsl(204, 81%, 62%); 
+    border: none;
+    color: red;
+    padding: 15px 32px;
+
+
+}
+
+.inicio {
+  padding: 18px;
+  background-color: #b4eeeb;
+  cursor: pointer;
+  outline: none;
+  border: none;
+  border-radius: 10px 10px 0px 0px;
+}
+
+.active, .inicio:hover {
+  background-color: hsl(204, 81%, 62%); 
+}
