@@ -444,6 +444,186 @@ require_once($var_include_menu);
     <td style="background-color:LemonChiffon; color:purple;";><p>purpura</p></td>
     <td style="background-color:LemonChiffon; color:orange;";><p>Naranja</p></td>
   </tr>
+  <tr>
+    <td>LightGoldenrodYellow</td>
+    <td style="background-color:LightGoldenrodYellow";></td>
+    <td>#FAFAD2</td>
+    <td>rgb(250, 250, 210)</td>
+    <td style="background-color:LightGoldenrodYellow; color:black;";><p>Negro</p></td>
+    <td style="background-color:LightGoldenrodYellow; color:white;";><p>Blanco</p></td>
+    <td style="background-color:LightGoldenrodYellow; color:Yellow;";><p>Amarillo</p></td>
+    <td style="background-color:LightGoldenrodYellow; color:blue;";><p>Azul</p></td>
+    <td style="background-color:LightGoldenrodYellow; color:red;";><p>Rojo</p></td>
+    <td style="background-color:LightGoldenrodYellow; color:grey;";><p>gris</p></td>
+    <td style="background-color:LightGoldenrodYellow; color:green;";><p>verde</p></td>
+    <td style="background-color:LightGoldenrodYellow; color:purple;";><p>purpura</p></td>
+    <td style="background-color:LightGoldenrodYellow; color:orange;";><p>Naranja</p></td>
+  </tr>
+  <tr>
+    <td>PapayaWhip</td>
+    <td style="background-color:PapayaWhip";></td>
+    <td>#FFEFD5</td>
+    <td>rgb(255, 239, 213)</td>
+    <td style="background-color:PapayaWhip; color:black;";><p>Negro</p></td>
+    <td style="background-color:PapayaWhip; color:white;";><p>Blanco</p></td>
+    <td style="background-color:PapayaWhip; color:Yellow;";><p>Amarillo</p></td>
+    <td style="background-color:PapayaWhip; color:blue;";><p>Azul</p></td>
+    <td style="background-color:PapayaWhip; color:red;";><p>Rojo</p></td>
+    <td style="background-color:PapayaWhip; color:grey;";><p>gris</p></td>
+    <td style="background-color:PapayaWhip; color:green;";><p>verde</p></td>
+    <td style="background-color:PapayaWhip; color:purple;";><p>purpura</p></td>
+    <td style="background-color:PapayaWhip; color:orange;";><p>Naranja</p></td>
+  </tr>
+  <tr>
+    <td>Moccasin</td>
+    <td style="background-color:Moccasin";></td>
+    <td>#FFE4B5</td>
+    <td>rgb(255, 228, 181)</td>
+    <td style="background-color:Moccasin; color:black;";><p>Negro</p></td>
+    <td style="background-color:Moccasin; color:white;";><p>Blanco</p></td>
+    <td style="background-color:Moccasin; color:Yellow;";><p>Amarillo</p></td>
+    <td style="background-color:Moccasin; color:blue;";><p>Azul</p></td>
+    <td style="background-color:Moccasin; color:red;";><p>Rojo</p></td>
+    <td style="background-color:Moccasin; color:grey;";><p>gris</p></td>
+    <td style="background-color:Moccasin; color:green;";><p>verde</p></td>
+    <td style="background-color:Moccasin; color:purple;";><p>purpura</p></td>
+    <td style="background-color:Moccasin; color:orange;";><p>Naranja</p></td>
+  </tr>
+  <tr>
+    <td>PeachPuff</td>
+    <td style="background-color:PeachPuff";></td>
+    <td>#FFDAB9</td>
+    <td>rgb(255, 218, 185)</td>
+    <td style="background-color:PeachPuff; color:black;";><p>Negro</p></td>
+    <td style="background-color:PeachPuff; color:white;";><p>Blanco</p></td>
+    <td style="background-color:PeachPuff; color:Yellow;";><p>Amarillo</p></td>
+    <td style="background-color:PeachPuff; color:blue;";><p>Azul</p></td>
+    <td style="background-color:PeachPuff; color:red;";><p>Rojo</p></td>
+    <td style="background-color:PeachPuff; color:grey;";><p>gris</p></td>
+    <td style="background-color:PeachPuff; color:green;";><p>verde</p></td>
+    <td style="background-color:PeachPuff; color:purple;";><p>purpura</p></td>
+    <td style="background-color:PeachPuff; color:orange;";><p>Naranja</p></td>
+  </tr>
+  <tr>
+    <td>PaleGoldenrod</td>
+    <td style="background-color:PaleGoldenrod";></td>
+    <td>#EEE8AA</td>
+    <td>rgb(238, 232, 170)</td>
+    <td style="background-color:PaleGoldenrod; color:black;";><p>Negro</p></td>
+    <td style="background-color:PaleGoldenrod; color:white;";><p>Blanco</p></td>
+    <td style="background-color:PaleGoldenrod; color:Yellow;";><p>Amarillo</p></td>
+    <td style="background-color:PaleGoldenrod; color:blue;";><p>Azul</p></td>
+    <td style="background-color:PaleGoldenrod; color:red;";><p>Rojo</p></td>
+    <td style="background-color:PaleGoldenrod; color:grey;";><p>gris</p></td>
+    <td style="background-color:PaleGoldenrod; color:green;";><p>verde</p></td>
+    <td style="background-color:PaleGoldenrod; color:purple;";><p>purpura</p></td>
+    <td style="background-color:PaleGoldenrod; color:orange;";><p>Naranja</p></td>
+  <tr>  
+  <tr>
+    <td>Khaki</td>
+    <td style="background-color:Khaki";></td>
+    <td>#F0E68C</td>
+    <td>rgb(240, 230, 140)</td>
+    <td style="background-color:Khaki; color:black;";><p>Negro</p></td>
+    <td style="background-color:Khaki; color:white;";><p>Blanco</p></td>
+    <td style="background-color:Khaki; color:Yellow;";><p>Amarillo</p></td>
+    <td style="background-color:Khaki; color:blue;";><p>Azul</p></td>
+    <td style="background-color:Khaki; color:red;";><p>Rojo</p></td>
+    <td style="background-color:Khaki; color:grey;";><p>gris</p></td>
+    <td style="background-color:Khaki; color:green;";><p>verde</p></td>
+    <td style="background-color:Khaki; color:purple;";><p>purpura</p></td>
+    <td style="background-color:Khaki; color:orange;";><p>Naranja</p></td>
+  </tr>
+  <tr>
+    <td>DarkKhaki</td>
+    <td style="background-color:DarkKhaki";></td>
+    <td>#BDB76B</td>
+    <td>rgb(189, 183, 107)</td>
+    <td style="background-color:DarkKhaki; color:black;";><p>Negro</p></td>
+    <td style="background-color:DarkKhaki; color:white;";><p>Blanco</p></td>
+    <td style="background-color:DarkKhaki; color:Yellow;";><p>Amarillo</p></td>
+    <td style="background-color:DarkKhaki; color:blue;";><p>Azul</p></td>
+    <td style="background-color:DarkKhaki; color:red;";><p>Rojo</p></td>
+    <td style="background-color:DarkKhaki; color:grey;";><p>gris</p></td>
+    <td style="background-color:DarkKhaki; color:green;";><p>verde</p></td>
+    <td style="background-color:DarkKhaki; color:purple;";><p>purpura</p></td>
+    <td style="background-color:DarkKhaki; color:orange;";><p>Naranja</p></td>
+  </tr>
+  <tr>
+    <td>Lavender</td>
+    <td style="background-color:Lavender";></td>
+    <td>#E6E6FA</td>
+    <td>rgb(230, 230, 250)</td>
+    <td style="background-color:Lavender; color:black;";><p>Negro</p></td>
+    <td style="background-color:Lavender; color:white;";><p>Blanco</p></td>
+    <td style="background-color:Lavender; color:Yellow;";><p>Amarillo</p></td>
+    <td style="background-color:Lavender; color:blue;";><p>Azul</p></td>
+    <td style="background-color:Lavender; color:red;";><p>Rojo</p></td>
+    <td style="background-color:Lavender; color:grey;";><p>gris</p></td>
+    <td style="background-color:Lavender; color:green;";><p>verde</p></td>
+    <td style="background-color:Lavender; color:purple;";><p>purpura</p></td>
+    <td style="background-color:Lavender; color:orange;";><p>Naranja</p></td>
+  </tr>
+  <tr>
+    <td>Thistle</td>
+    <td style="background-color:Thistle";></td>
+    <td>#D8BFD8</td>
+    <td>rgb(216, 191, 216)</td>
+    <td style="background-color:Thistle; color:black;";><p>Negro</p></td>
+    <td style="background-color:Thistle; color:white;";><p>Blanco</p></td>
+    <td style="background-color:Thistle; color:Yellow;";><p>Amarillo</p></td>
+    <td style="background-color:Thistle; color:blue;";><p>Azul</p></td>
+    <td style="background-color:Thistle; color:red;";><p>Rojo</p></td>
+    <td style="background-color:Thistle; color:grey;";><p>gris</p></td>
+    <td style="background-color:Thistle; color:green;";><p>verde</p></td>
+    <td style="background-color:Thistle; color:purple;";><p>purpura</p></td>
+    <td style="background-color:Thistle; color:orange;";><p>Naranja</p></td>
+  </tr>
+  <tr>
+    <td>Plum</td>
+    <td style="background-color:Plum";></td>
+    <td>#D8BFD8</td>
+    <td>rgb(216, 191, 216)</td>
+    <td style="background-color:Plum; color:black;";><p>Negro</p></td>
+    <td style="background-color:Plum; color:white;";><p>Blanco</p></td>
+    <td style="background-color:Plum; color:Yellow;";><p>Amarillo</p></td>
+    <td style="background-color:Plum; color:blue;";><p>Azul</p></td>
+    <td style="background-color:Plum; color:red;";><p>Rojo</p></td>
+    <td style="background-color:Plum; color:grey;";><p>gris</p></td>
+    <td style="background-color:Plum; color:green;";><p>verde</p></td>
+    <td style="background-color:Plum; color:purple;";><p>purpura</p></td>
+    <td style="background-color:Plum; color:orange;";><p>Naranja</p></td>
+  </tr>
+  <tr>
+    <td>Violet</td>
+    <td style="background-color:Violet";></td>
+    <td>#EE82EE</td>
+    <td>rgb(238, 130, 238)</td>
+    <td style="background-color:Violet; color:black;";><p>Negro</p></td>
+    <td style="background-color:Violet; color:white;";><p>Blanco</p></td>
+    <td style="background-color:Violet; color:Yellow;";><p>Amarillo</p></td>
+    <td style="background-color:Violet; color:blue;";><p>Azul</p></td>
+    <td style="background-color:Violet; color:red;";><p>Rojo</p></td>
+    <td style="background-color:Violet; color:grey;";><p>gris</p></td>
+    <td style="background-color:Violet; color:green;";><p>verde</p></td>
+    <td style="background-color:Violet; color:purple;";><p>purpura</p></td>
+    <td style="background-color:Violet; color:orange;";><p>Naranja</p></td>
+  </tr>
+  <tr>
+    <td>Orchid</td>
+    <td style="background-color:Orchid";></td>
+    <td>#DA70D6</td>
+    <td>rgb(218, 112, 214)</td>
+    <td style="background-color:Orchid; color:black;";><p>Negro</p></td>
+    <td style="background-color:Orchid; color:white;";><p>Blanco</p></td>
+    <td style="background-color:Orchid; color:Yellow;";><p>Amarillo</p></td>
+    <td style="background-color:Orchid; color:blue;";><p>Azul</p></td>
+    <td style="background-color:Orchid; color:red;";><p>Rojo</p></td>
+    <td style="background-color:Orchid; color:grey;";><p>gris</p></td>
+    <td style="background-color:Orchid; color:green;";><p>verde</p></td>
+    <td style="background-color:Orchid; color:purple;";><p>purpura</p></td>
+    <td style="background-color:Orchid; color:orange;";><p>Naranja</p></td>
+  </tr>
 
 </table>
 </div>
