@@ -12,9 +12,11 @@ $var_include_menu=$_SERVER["DOCUMENT_ROOT"] . '/formulario_02/include/menu_princ
     echo "Pagina_FILE:__" . __FILE__ . "\n";
     echo "Pagina_DIR:__" . __DIR__ . "\n";
     echo "Pagina_realpath:__" . realpath('../') . "\n"; */
-    $ruta_dir_01 =  "../index.php"; 
-    $ruta_dir_02 =  "pagina_basico.php";  
-    $ruta_dir_03_a  =  "colores_basico.php";
+    /*$ruta_dir_01 =  "../index.php"; */
+
+    include "../include/enlases_externos.php";
+
+    
 ?>
 </head>
 
@@ -22,23 +24,27 @@ $var_include_menu=$_SERVER["DOCUMENT_ROOT"] . '/formulario_02/include/menu_princ
 
 <!-- CABECERA -->
 <?php
+
 require_once($var_include_cabesera);
+
 ?>
 
 
 <!-- MENU -->
+
 <?php 
 require_once($var_include_menu);
+
 ?>
 
     <!-- CAJA PRINCIPAL -->
 <div id="id_caja_principal">
 
-<a href="pagina_basico.php">
-        <button class="tbn_a_01_encabesado">Codigo</button>     
+<a href="#">
+        <button class="tbn_a_01_encabesado">color_a</button>     
 </a>
-<a href="ejemplo_basico.php">
-        <button class="tbn_a_01_encabesado">Visualizacion</button>     
+<a href="#">
+        <button class="tbn_a_01_encabesado">color_b</button>     
 </a>
 <br>
 <br>
@@ -623,6 +629,21 @@ require_once($var_include_menu);
     <td style="background-color:Orchid; color:green;";><p>verde</p></td>
     <td style="background-color:Orchid; color:purple;";><p>purpura</p></td>
     <td style="background-color:Orchid; color:orange;";><p>Naranja</p></td>
+  </tr>
+  <tr>
+  <td>Magenta</td>
+<td style="Magenta";></td>
+<td>#FF00FF</td>
+<td>rgb(255, 0, 255)</td>
+<td style="background-color:Orchid; color:Magenta;";><p>Negro</p></td>
+<td style="background-color:Orchid; color:Magenta;";><p>Blanco</p></td>
+<td style="background-color:Orchid; color:Magenta;";><p>Amarillo</p></td>
+<td style="background-color:Orchid; color:Magenta;";><p>Azul</p></td>
+<td style="background-color:Orchid; color:Magenta;";><p>Rojo</p></td>
+<td style="background-color:Orchid; color:Magenta;";><p>gris</p></td>
+<td style="background-color:Orchid; color:Magenta;";><p>verde</p></td>
+<td style="background-color:Orchid; color:Magenta;";><p>purpura</p></td>
+<td style="background-color:Orchid; color:Magenta;";><p>Naranja</p></td>
   </tr>
 
 </table>

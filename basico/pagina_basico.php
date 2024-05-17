@@ -12,9 +12,7 @@ $var_include_menu=$_SERVER["DOCUMENT_ROOT"] . '/formulario_02/include/menu_princ
     echo "Pagina_FILE:__" . __FILE__ . "\n";
     echo "Pagina_DIR:__" . __DIR__ . "\n";
     echo "Pagina_realpath:__" . realpath('../') . "\n"; */
-    $ruta_dir_01 =  "../index.php";
-    $ruta_dir_02 =  "pagina_basico.php";
-    $ruta_dir_03_a  =  "colores_basico.php";
+    include "../include/enlases_externos.php";
    
 ?>
 </head>
@@ -35,10 +33,10 @@ require_once($var_include_menu);
     <!-- CAJA PRINCIPAL -->
 <div id="id_caja_principal">
 
-<a href="pagina_basico.php">
+<a href="<?php echo $enlace_aa_01 ?>">
         <button class="tbn_a_01_encabesado">Codigo</button>     
 </a>
-<a href="ejemplo_basico.php">
+<a href="<?php echo $enlace_aa_02 ?>">
         <button class="tbn_a_01_encabesado">Visualizacion</button>     
 </a>
 <br>

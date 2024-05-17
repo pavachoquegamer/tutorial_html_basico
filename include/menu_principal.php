@@ -1,7 +1,8 @@
 <div id="id_menu">
     <a href="<?php echo $ruta_dir_01 ?>">
-    <div class ="inicio">
-        Inicio
+    <div class ="inicio___">
+    <button class="btn_azul_01">Inicio__a</button>  
+        
     </div>
     </a>
     <button class="accordion">Basico</button>
@@ -26,3 +27,5 @@
     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
     </div>
 </div> 
+
+
