@@ -7,12 +7,8 @@
 <link rel="stylesheet" type="text/css" href="../css/estilo_01.css" />
 <link rel="stylesheet" type="text/css" href="css/estilo_a_01.css" />
 <?php
-    $var_ruta_local=$_SERVER["DOCUMENT_ROOT"] ;
 
 
-    include "../include/enlases_externos.php";
-    echo $ruta_dir_01;
-    
 ?>
 </head>
 
@@ -30,6 +26,7 @@ require_once($var_include_cabesera);
 
 <?php 
 require_once($var_include_menu);
+
 ?>
 
     <!-- CAJA PRINCIPAL -->

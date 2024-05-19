@@ -6,6 +6,9 @@
 <link rel="stylesheet" type="text/css" href="../css/estilo_acordeon.css" />
 <link rel="stylesheet" type="text/css" href="../css/estilo_01.css" />
 <link rel="stylesheet" type="text/css" href="css/estilo_a_01.css" />
+<?php
+
+?>
 </head>
 
 <body bgcolor="#185F8B">
@@ -24,17 +27,11 @@ require_once($var_include_menu);
     <!-- CAJA PRINCIPAL -->
 <div id="id_caja_principal">
 
-<a href="<?php echo $enlace_aa_01 ?>">
-        <button class="tbn_a_01_encabesado">Codigo basico</button>     
+<a href="pagina_basico.php">
+        <button class="tbn_a_01_encabesado">Codigo</button>     
 </a>
-<a href="<?php echo $enlace_aa_02 ?>">
-        <button class="tbn_a_01_encabesado">Vista basica</button>     
-</a>
-<a href="<?php echo $enlace_aa_03 ?>">
-        <button class="tbn_a_01_encabesado">Codigo completo</button>     
-</a>
-<a href="<?php echo $enlace_aa_04 ?>">
-        <button class="tbn_a_01_encabesado">Vista completo</button>     
+<a href="ejemplo_basico.php">
+        <button class="tbn_a_01_encabesado">Visualizacion</button>     
 </a>
 <br>
 <br>
