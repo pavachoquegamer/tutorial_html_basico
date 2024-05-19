@@ -14,11 +14,12 @@
   }
   #id_caja_principal {
     position: absolute; 
-    /*background-color: powderblue;*/
+    background-color: powderblue;
     margin: 65px 0% 0% 16%;  
     width: 83%;
     height: 80%;
     border: 1px solid #035180;
+   /*opacity: 0.3; */
   
   }
   #id_parrafo_titulo{
