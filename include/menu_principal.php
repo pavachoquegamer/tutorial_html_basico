@@ -1,16 +1,9 @@
 <div id="id_menu">
     <a href="<?php echo $ruta_dir_01 ?>">
-
         <div class ="panel">
         <button class="btn_azul_01">Inicio</button>  
             
         </div>
-
-    <div class ="inicio___">
-    <button class="btn_azul_01">Inicio__a</button>  
-        
-    </div>
-
     </a>
     <button class="accordion">Basico</button>
     <div class="panel">
